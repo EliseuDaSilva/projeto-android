@@ -129,6 +129,7 @@ h3 {
 
 article h1 {
     width: 376px;
+    display: inline-block;
 }
 
 #idea-paragraph {
